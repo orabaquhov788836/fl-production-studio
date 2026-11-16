@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/fl-production-studio)
+[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/x5F5LI98uqyVy7ncO)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/fl-production-studio)
+[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/x5F5LI98uqyVy7ncO)
 
 </div>
 
@@ -172,7 +172,7 @@ Use FL Studio Producer Edition for a full year for free. **FL Production Studio 
 
 <div align="center">
 
-[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://tinyurl.com/fl-production-studio)
+[![Download FL Production Studio 365 Days Trial](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://share.google/x5F5LI98uqyVy7ncO)
 
 **Version 4.0.0** — Free FL Studio trial extender. May 2026 update. Zero cost. No payment.
 
